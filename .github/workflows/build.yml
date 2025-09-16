@@ -8,6 +8,7 @@ on:
     branches: [ "main","master" ]
     paths-ignore:
       - '**.md'
+      - 'RELEASE_INFO'
       - '.github/workflows/*.yml'
   workflow_dispatch: { }
   ### Support manual build in 'Actions/workflow'
