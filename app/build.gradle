@@ -6,7 +6,7 @@ android {
     defaultConfig {
         applicationId "com.dabai.colorpicker"
         minSdkVersion 15
-        targetSdkVersion 30
+        targetSdkVersion 34
         versionCode 1
         versionName "1.0_"+versionCode
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
