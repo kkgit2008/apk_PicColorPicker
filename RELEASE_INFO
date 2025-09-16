@@ -5,7 +5,7 @@ TAG_NAME=1.0.1
 # TITLE=xx shortSHA
 
 # 目标分支（必填）
-BRANCH=main
+BRANCH=master
 
 # 是否为预发布版本（可选，默认false）
 PRERELEASE=false
