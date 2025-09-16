@@ -185,7 +185,7 @@ jobs:
 
       - name: Build Release APK
         if: ${{ steps.check_tag.outputs.tag_exists == 'false' }}
-        run: ./gradlew :core:app:assembleRelease
+        run: ./gradlew :core:assembleRelease
         continue-on-error: false
 
       - name: Show APK paths
