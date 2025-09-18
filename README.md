@@ -1,7 +1,6 @@
-# Picture-color-picker
+# PicColorPicker
 # 截图
-![](https://github.com/dabai2017/Picture-color-picker/blob/master/pic/Screenshot_20200207-223105.jpg)
-![](https://github.com/dabai2017/Picture-color-picker/blob/master/pic/Screenshot_20200207-223110.jpg)
-![](https://github.com/dabai2017/Picture-color-picker/blob/master/pic/Screenshot_20200207-223116.jpg)
+![](https://github.com/kkgit2008/apk_PicColorPicker/blob/master/pic/)
+
 # 下载连接
-https://www.lanzous.com/i957qyb
+https://github.com/kkgit2008/apk_PicColorPicker/releases
