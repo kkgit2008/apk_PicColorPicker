@@ -5,7 +5,7 @@ name: Build current repo
 on:
   push:
     ### Start build only on these branches
-    branches: [ "main","master" ]
+    branches: [ "IsNoMain","IsNoMaster" ]
     paths-ignore:
       - '**.md'
       - 'RELEASE_INFO'
